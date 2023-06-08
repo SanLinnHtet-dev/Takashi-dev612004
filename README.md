@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **linnhete.dev@gmail.com**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takashi-dev612004)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/david_alasthan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="david_alasthan" height="30" width="40" /></a>
