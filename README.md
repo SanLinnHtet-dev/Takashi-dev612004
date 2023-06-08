@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NumPy**
 
-- 💬 Ask me about **react, php, laravel, node, C++**
+- 💬 Ask me about **react, php, laravel, node, C++, react-native**
 
 - 📫 How to reach me **linnhete.dev@gmail.com**
 
