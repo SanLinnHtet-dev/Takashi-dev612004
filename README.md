@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **linnhete.dev@gmail.com**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takashi-dev612004&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takashi-dev612004&show_icons=true&theme=radical)
 
 
 <h3 align="left">Connect with me:</h3>
