@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, php, laravel, node, C++, react-native**
 
-- 📫 How to reach me **linnhete.dev@gmail.com**
+- 📫 How to reach me **linnhtet.dev@gmail.com**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takashi-dev612004&show_icons=true&theme=radical)
 
